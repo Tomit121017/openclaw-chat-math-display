@@ -1,4 +1,6 @@
-# openclaw-skills
+# OpenClaw 对话窗口数学公式显示
+
+Chat-surface math rendering for OpenClaw: typeset formulas as KaTeX images instead of raw LaTeX.
 
 Reusable agent skills and the scripts they call.
 
